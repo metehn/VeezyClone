@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Veezy Clone</string>
+
+    <string name="supercool_chilling">Bu modda et ve balık gibi ürünlerinizi 5 güne kadar saklayabilirsiniz. \n\n
+*içeceklerinizi soğutmak için kullanabilirsiniz.\n
+*Gıda\'nın satın alındığındaki tazeliğine bağlı olarak değişebilir.</string>
+
+    <string name="soft_freeze">Bu modda et ve balık gibi ürünlerinizi 3 haftaya kadar saklayabilirsiniz.Çözdürmeye gerek olmadan kesebilir ve dilimleyebilirsiniz.\n\n
+        * Gıda\'nın satın alındığındaki tazeliğine bağlı olara süre değişebilir</string>
+
+    <string name="freezer">Dondurucu olarak kullanabilirsiniz.</string>
+
+    <string name="cooler">Soğutucu olarak kullanabilirsiniz.</string>
+
+</resources>
